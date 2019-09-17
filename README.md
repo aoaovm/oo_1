@@ -28,7 +28,7 @@
 # My FaceBook
 <https://www.facebook.com/profile.php?id=100003718648724>
 
-|First|Second|Third|
+|First|Second||
 |:----|:----:|----:|
 |1 |2 |3 |
 |1 |2 |3 |
