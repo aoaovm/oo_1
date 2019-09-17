@@ -25,7 +25,7 @@
 
 [高科大](https://www.nkust.edu.tw/)
 
-# My FaceBook:
+# My FaceBook
 <https://www.facebook.com/profile.php?id=100003718648724>
 
 |First|Second|Third|
