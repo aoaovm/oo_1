@@ -32,3 +32,5 @@
 |:----|:----:|----:|
 |1 |2 |3 |
 |1 |2 |3 |
+
+![image](https://github.com/aoaovm/oo_1/blob/master/nkust.png)
