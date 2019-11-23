@@ -35,33 +35,3 @@
 
 ![image](https://github.com/aoaovm/oo_1/blob/master/nkust.png)
 
-abstract class CShape{
-  protected String color;
-    public void setColor(String str)
-{
-    color=str;
-}
-public abstract void show();
-
-}
-class CTriangle extends CShape{
-    protected double a,b,c;
-    public CTriangle(double a,double b,double c){
-
-        this.a=a;
-        this.b=b;
-        this.c=c;
-    }
-    public void show(){
-      System.out.print("color="+color+", ");
-      System.out.println("area="+0.5*a*b);
-    }
-}
-
-class Main{
-    public static void main(String[] args){
-        CTriangle triangle =new CTriangle(3,4,5);
-        triangle.setColor("Red");
-        triangle.show();
-    }
-}
